@@ -1,0 +1,4 @@
+Depot
+=====
+
+Basic rails application.
